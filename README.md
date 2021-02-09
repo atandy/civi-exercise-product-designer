@@ -18,7 +18,7 @@ You are tasked with designing the sign up flow and home screen of a new mobile a
 
 ## Exercise Deliverables and Submissions
 ### Exercise Format
-For this assignment, you are welcome to create and submit the exercise in any format you would like (keynote, powerpoint, etc.). However, keep in mind that you could later be asked to present your work and talk through your approach. 
+For this assignment, you are welcome to create and submit the exercise in any format you would like (keynote, powerpoint, Figma etc.). However, keep in mind that you could later be asked to present your work and talk through your approach. 
 
 For this assignment, you need _not_ provide anything hi-fidelity, with the exception of one view of the home screen of the app. 
 
